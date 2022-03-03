@@ -1,0 +1,2 @@
+The weighted of every node is one
+We are assuming that all the nodes are at the same distance from each other
